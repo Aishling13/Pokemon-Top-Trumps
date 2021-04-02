@@ -1,0 +1,9 @@
+Ask for pokemon name/id
+>> Pikachu
+you chose Pikachu
+Which stat do you want to use? (id, height, weight)
+>> height
+Pikachu's height is ...
+The opponent chose Bulbasaur
+Bulbasaur's height is ...
+You win/You lose/Draw
